@@ -28,3 +28,4 @@ C:\Users\Eberle\Desktop\teste\Investify\obj\Debug\net8.0\refint\Investify.dll
 C:\Users\Eberle\Desktop\teste\Investify\obj\Debug\net8.0\Investify.pdb
 C:\Users\Eberle\Desktop\teste\Investify\obj\Debug\net8.0\Investify.genruntimeconfig.cache
 C:\Users\Eberle\Desktop\teste\Investify\obj\Debug\net8.0\ref\Investify.dll
+C:\Users\Eberle\Desktop\teste\Investify\obj\Debug\net8.0\Investify.sourcelink.json
