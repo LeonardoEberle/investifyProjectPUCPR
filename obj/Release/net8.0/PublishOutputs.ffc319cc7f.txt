@@ -1,0 +1,7 @@
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\Investify.exe
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\Investify.dll
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\Investify.deps.json
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\Investify.runtimeconfig.json
+C:\Users\Eberle\Desktop\teste\Investify\obj\Release\net8.0\PubTmp\Out\Investify.pdb
