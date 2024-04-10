@@ -54,4 +54,4 @@ jobs:
           app-name: 'investfy'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03322BD94216445BAA78500320665444 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A48AC7918934607BE94C9B6119FBC98 }}
