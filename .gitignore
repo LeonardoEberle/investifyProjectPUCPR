@@ -1,3 +1,4 @@
-# SQL Server files
+#visual Studio
 .vs/
-appsettings.json
+#
+/appsettings.json
