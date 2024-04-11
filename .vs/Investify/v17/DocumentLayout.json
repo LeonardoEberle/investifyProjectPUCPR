@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\migrations\\20240411083133_teste-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:migrations\\20240411083133_teste-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\teste\\investify\\models\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T18:18:08.414Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T08:33:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:32:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240411083133_teste-1.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Migrations\\20240411083133_teste-1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240411083133_teste-1.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Migrations\\20240411083133_teste-1.cs",
+              "RelativeToolTip": "Migrations\\20240411083133_teste-1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:31:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:25:10.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teste.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Models\\Teste.cs",
+              "RelativeDocumentMoniker": "Models\\Teste.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Models\\Teste.cs",
+              "RelativeToolTip": "Models\\Teste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:23:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\teste\\Investify\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:20:13.399Z",
               "EditorCaption": ""
             }
           ]

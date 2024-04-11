@@ -1,7 +1,16 @@
+using Investify.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContextPool<AppDbContext>(options =>
+    options.UseSqlServer(mySqlConnection)
+);
 
 var app = builder.Build();
 
