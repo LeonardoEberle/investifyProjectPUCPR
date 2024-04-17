@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\PROJETO INVESTIFY\\investifyProjectPUCPR\\Investify.csproj": {}
+    "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\PROJETO INVESTIFY\\investifyProjectPUCPR\\Investify.csproj": {
+    "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\PROJETO INVESTIFY\\investifyProjectPUCPR\\Investify.csproj",
+        "projectUniqueName": "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj",
         "projectName": "Investify",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\PROJETO INVESTIFY\\investifyProjectPUCPR\\Investify.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\PROJETO INVESTIFY\\investifyProjectPUCPR\\obj\\",
+        "projectPath": "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj",
+        "packagesPath": "C:\\Users\\Eberle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eberle\\Desktop\\pucpr\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eberle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Capiware/index.json": {}
         },
         "frameworks": {
           "net8.0": {
