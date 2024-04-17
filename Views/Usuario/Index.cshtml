@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Investify.Models.UsuarioModel>
+
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Novo Usuario</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                CPF
+            </th>
+            <th>
+                Telefone
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Data de cadastro
+            </th>
+            <th>
+                Data de Nascimento
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_cpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_dataInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usu_dataNasc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Usu_id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Usu_id">Perfil</a> |
+                <a asp-action="Delete" asp-route-id="@item.Usu_id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -9,6 +9,10 @@ namespace Investify.Context
         {
         }
 
-        public DbSet<Teste> Testes { get; set; }
+        public DbSet<UsuarioModel> Usuario { get; set; }
+        public DbSet<IdeiaModel> Ideia { get; set; }
+        public DbSet<CarteiraModel> Carteira { get; set; }
+        public DbSet<GeneroModel> Genero { get; set; }
+        public DbSet<CargoModel> Cargo { get; set; }
     }
 }

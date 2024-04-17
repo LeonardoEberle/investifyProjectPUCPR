@@ -1,0 +1,54 @@
+﻿@model Investify.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Edit</h1>
+
+<h4>Usuarios</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Usu_id" />
+            <div class="form-group">
+                <label asp-for="Usu_nome" class="control-label"></label>
+                <input asp-for="Usu_nome" class="form-control" />
+                <span asp-validation-for="Usu_nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Usu_cpf" class="control-label"></label>
+                <input asp-for="Usu_cpf" class="form-control" />
+                <span asp-validation-for="Usu_cpf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Usu_telefone" class="control-label"></label>
+                <input asp-for="Usu_telefone" class="form-control" />
+                <span asp-validation-for="Usu_telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Usu_email" class="control-label"></label>
+                <input asp-for="Usu_email" class="form-control" />
+                <span asp-validation-for="Usu_email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Usu_dataNasc" class="control-label"></label>
+                <input asp-for="Usu_dataNasc" class="form-control" />
+                <span asp-validation-for="Usu_dataNasc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Lista de Usuarios</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
