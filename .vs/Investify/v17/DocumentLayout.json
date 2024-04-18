@@ -1,62 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eberle\\Desktop\\pucpr\\",
+  "WorkspaceRootPath": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucprinvest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucprinvest\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucprinvest\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucprinvest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417211913_inserindoTabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240417211913_inserindoTabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\models\\generomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\generomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\models\\cargomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\cargomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\models\\carteiramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\carteiramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\models\\ideiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:models\\ideiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417210700_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240417210700_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucpr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|c:\\users\\eberle\\desktop\\pucprinvest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F844A3-7A26-4D66-895A-AED67DCC66E1}|Investify.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,193 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Usuario\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Usuario\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Delete.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T21:43:20.577Z",
+              "WhenOpened": "2024-04-18T20:03:54.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:55:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:48:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:41:29.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAATAAAA",
+              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T21:27:28.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAiwJAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:22:25.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240417211913_inserindoTabelas.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417211913_inserindoTabelas.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240417211913_inserindoTabelas.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417211913_inserindoTabelas.cs",
-              "RelativeToolTip": "Migrations\\20240417211913_inserindoTabelas.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAgwF8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:19:13.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GeneroModel.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\GeneroModel.cs",
-              "RelativeDocumentMoniker": "Models\\GeneroModel.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\GeneroModel.cs",
-              "RelativeToolTip": "Models\\GeneroModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:14:00.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CargoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\CargoModel.cs",
-              "RelativeDocumentMoniker": "Models\\CargoModel.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\CargoModel.cs",
-              "RelativeToolTip": "Models\\CargoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:13:48.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IdeiaModel.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\IdeiaModel.cs",
-              "RelativeDocumentMoniker": "Models\\IdeiaModel.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\IdeiaModel.cs",
-              "RelativeToolTip": "Models\\IdeiaModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:08:32.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CarteiraModel.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\CarteiraModel.cs",
-              "RelativeDocumentMoniker": "Models\\CarteiraModel.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\CarteiraModel.cs",
-              "RelativeToolTip": "Models\\CarteiraModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:08:18.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240417210700_teste.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417210700_teste.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240417210700_teste.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Migrations\\20240417210700_teste.cs",
-              "RelativeToolTip": "Migrations\\20240417210700_teste.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:07:01.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "Models\\UsuarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:05:56.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T20:41:33.108Z",
+              "WhenOpened": "2024-04-18T19:47:43.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-17T20:30:56.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T20:23:30Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eberle\\Desktop\\pucpr\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T18:18:08.414Z",
-              "EditorCaption": ""
             }
           ]
         }
