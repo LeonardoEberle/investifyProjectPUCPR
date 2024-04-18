@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HWX89RFlggDuxJEHfTuxbopuuura0yY8a4NJRoEJ/na9EjXhzOF9jjxJq/JK2tqlDIkkD15boECFIlyt58XiaA==",
+  "dgSpecHash": "KG+/McmWbDGJjH2ZeAnL4v0+esBIIqcH0FvegCXktpaIKVhryriw05A5cUAImpu/F/gELuHOGPvyPss42i3QQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj",
+  "projectFilePath": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Investify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eberle\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Eberle\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -7846,11 +7846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj",
+      "projectUniqueName": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Investify.csproj",
       "projectName": "Investify",
-      "projectPath": "C:\\Users\\Eberle\\Desktop\\pucpr\\Investify.csproj",
+      "projectPath": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\Investify.csproj",
       "packagesPath": "C:\\Users\\Eberle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eberle\\Desktop\\pucpr\\obj\\",
+      "outputPath": "C:\\Users\\Eberle\\Desktop\\PucPrInvest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
