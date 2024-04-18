@@ -1,0 +1,88 @@
+﻿@model Investify.Models.IdeiaModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>IdeiaModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ide_nome" class="control-label"></label>
+                <input asp-for="Ide_nome" class="form-control" />
+                <span asp-validation-for="Ide_nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ide_descricao" class="control-label"></label>
+                <input asp-for="ide_descricao" class="form-control" />
+                <span asp-validation-for="ide_descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_empresario" class="control-label"></label>
+                <input asp-for="Ide_empresario" class="form-control" />
+                <span asp-validation-for="Ide_empresario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_nivelRisco" class="control-label"></label>
+                <input asp-for="Ide_nivelRisco" class="form-control" />
+                <span asp-validation-for="Ide_nivelRisco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_tipo" class="control-label"></label>
+                <input asp-for="Ide_tipo" class="form-control" />
+                <span asp-validation-for="Ide_tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_cnpj" class="control-label"></label>
+                <input asp-for="Ide_cnpj" class="form-control" />
+                <span asp-validation-for="Ide_cnpj" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_fase" class="control-label"></label>
+                <input asp-for="Ide_fase" class="form-control" />
+                <span asp-validation-for="Ide_fase" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_date" class="control-label"></label>
+                <input asp-for="Ide_date" class="form-control" />
+                <span asp-validation-for="Ide_date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_status" class="control-label"></label>
+                <input asp-for="Ide_status" class="form-control" />
+                <span asp-validation-for="Ide_status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_valorInicial" class="control-label"></label>
+                <input asp-for="Ide_valorInicial" class="form-control" />
+                <span asp-validation-for="Ide_valorInicial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_valorAtual" class="control-label"></label>
+                <input asp-for="Ide_valorAtual" class="form-control" />
+                <span asp-validation-for="Ide_valorAtual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ide_participacaoDisponivel" class="control-label"></label>
+                <input asp-for="Ide_participacaoDisponivel" class="form-control" />
+                <span asp-validation-for="Ide_participacaoDisponivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
