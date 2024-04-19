@@ -26,12 +26,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Eberle\Desktop\PucPrInvest
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Eberle/Desktop/PucPrInvest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Eberle/Desktop/PucPrInvest/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/Home/Join.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/IdeiaModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlaWFNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/IdeiaModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlaWFNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/IdeiaModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlaWFNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/IdeiaModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlaWFNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eberle/Desktop/PucPrInvest/Views/IdeiaModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlaWFNb2RlbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Eberle/Desktop/PucPrInvest/Views/Shared/Error.cshtml]

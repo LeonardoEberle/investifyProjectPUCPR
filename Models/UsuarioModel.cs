@@ -22,6 +22,6 @@ namespace Investify.Models
 
         public DateTime Usu_dataNasc { get; set; }
 
-        public int Usu_status { get; set; }
+        public UserTypeEnum Usu_type { get; set; }
     }
 }
