@@ -1,4 +1,8 @@
 #visual Studio
 .vs/
+.vs
+/.vs
 #
 /appsettings.json
+
+obj/
