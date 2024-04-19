@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Investify.Models.IdeiaModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ide_descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_empresario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_nivelRisco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_cnpj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_fase)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_valorInicial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_valorAtual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ide_participacaoDisponivel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ide_descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_empresario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_nivelRisco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_cnpj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_fase)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_valorInicial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_valorAtual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ide_participacaoDisponivel)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Ide_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Ide_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Ide_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
